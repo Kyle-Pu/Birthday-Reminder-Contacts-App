@@ -2,7 +2,6 @@ import java.util.List;
 import java.util.Scanner;
 
 import com.db4o.*;
-import com.db4o.foundation.Iterators;
 
 public class Main {
 
