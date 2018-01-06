@@ -45,7 +45,7 @@ public class Main {
 					 *The comma entered by the user is ignored (the String was split at the comma)
 					 */
 					
-					contactInfo[1].replaceAll(" ", "");
+					contactInfo[1] = contactInfo[1].replaceAll("\\s", "");
 					//Takes away all spaces from birthday so formatting is correct when displaying info
 					
 					Contact newContact = new Contact(contactInfo[0], contactInfo[1]);
