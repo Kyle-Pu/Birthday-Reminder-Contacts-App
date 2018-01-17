@@ -12,3 +12,7 @@ The purpose of this app is to remind users when birthdays of family and friends 
 ## Installing Db4o
 - [Download](https://www.dropbox.com/s/s6farl3dqez7e1r/db4o-8.0.276.16149-java.zip?dl=0) db4o 
 - Learn basics of db4o and how to install with [the db4objects tutorial](http://www-users.mat.umk.pl/~stencel/obd/db4o-7.8-tutorial.pdf).
+
+## Future Plan
+- After fundamentals/basics of this project are built, we're planning on developing it into an application with smart features
+- More info coming soon!
