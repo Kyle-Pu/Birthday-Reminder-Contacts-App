@@ -1,4 +1,6 @@
 # Birthday-Reminder
+
+[![Join the chat at https://gitter.im/Birthday-Reminder/Lobby](https://badges.gitter.im/Birthday-Reminder/Lobby.svg)](https://gitter.im/Birthday-Reminder/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A personal project. Desktop app built in Java using the db4o open-source database. 
 
 ## Details
