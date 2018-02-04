@@ -1,13 +1,14 @@
 # Birthday-Reminder
 
 [![Join the chat at https://gitter.im/Birthday-Reminder/Lobby](https://badges.gitter.im/Birthday-Reminder/Lobby.svg)](https://gitter.im/Birthday-Reminder/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-A personal project. Desktop app built in Java using the db4o open-source database. 
+A personal project. Android app built in Java using the db4o open-source database. 
 
 ## Details
 The purpose of this app is to remind users when birthdays of family and friends are approaching. This program implements Actian's "embeddable open source object database for Java and .NET developers." Planning to expand functionality after building basic mobile app for ANDROID (takes advantage of notifications and other platform-dependent functions). 
 
 ## Contributing
 - Seeking help to build certain functions. A small team would be great!
+- Be sure to refer to projects section of repo. This is where most information will be kept and where all tasks will be organized.
 - When editing program, make sure to change the path of the file in Main.java to a text file you create on your computer. Data is hosted locally!
 
 
