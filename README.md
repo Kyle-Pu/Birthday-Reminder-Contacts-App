@@ -2,7 +2,7 @@
 A personal project. Desktop app built in Java using the db4o open-source database. 
 
 ## Details
-The purpose of this app is to remind users when birthdays of family and friends are approaching. This program implements Actian's "embeddable open source object database for Java and .NET developers." Planning to expand functionality after building basic app for Windows 10 (takes advantage of notifications and other platform-dependent functions). 
+The purpose of this app is to remind users when birthdays of family and friends are approaching. This program implements Actian's "embeddable open source object database for Java and .NET developers." Planning to expand functionality after building basic mobile app for ANDROID (takes advantage of notifications and other platform-dependent functions). 
 
 ## Contributing
 - Seeking help to build certain functions. A small team would be great!
