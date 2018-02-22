@@ -4,9 +4,10 @@
 A personal project. Android app built in Java using the db4o open-source database. 
 
 Currently porting project from desktop to Android platform.
+Still in early stages of development.
 
 ## Details
-The purpose of this app is to remind users when birthdays of family and friends are approaching. Special features are planned and will be released as fundamentals are built. This program implements Actian's "embeddable open source object database for Java and .NET developers." Planning to expand functionality after building basic mobile app for ANDROID (takes advantage of notifications and other platform-dependent functions). 
+The purpose of this app is to be a sort of bridge between a contacts app and a connections platform. Features will include: reminding users when birthdays of family and friends are approaching, all the necessary functions for a contacts app, etc.. Special features are planned and will be released as fundamentals are built. This program implements Actian's "embeddable open source object database for Java and .NET developers." Planning to expand functionality after building basic mobile app for ANDROID (takes advantage of notifications and other platform-dependent functions). 
 
 ## Contributing
 - Be sure to refer to projects section of repo. This is where most information will be kept and where all tasks will be organized.
